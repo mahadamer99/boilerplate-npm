@@ -13,5 +13,6 @@
 	},
 	"author" : "Mahad Amer",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words", "freecodecamp" ]
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT"
 }
